@@ -2,7 +2,6 @@
 from PIL import Image
 import os
 
-
 current_dir = os.getcwd()
 source_dir = current_dir + '/images/'
 tar_dir = "/opt/icons/"
